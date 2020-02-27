@@ -1,0 +1,13 @@
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.exe.config
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.exe
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.pdb
+E:\WindowService\AssetInfinity.HardwareInformationService\obj\Debug\AssetInfinity.HardwareInformationService.ProjectInstaller.resources
+E:\WindowService\AssetInfinity.HardwareInformationService\obj\Debug\AssetInfinity.HardwareInformationService.csproj.GenerateResource.cache
+E:\WindowService\AssetInfinity.HardwareInformationService\obj\Debug\AssetInfinity.HardwareInformationService.exe
+E:\WindowService\AssetInfinity.HardwareInformationService\obj\Debug\AssetInfinity.HardwareInformationService.pdb
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\Newtonsoft.Json.dll
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\RestSharp.dll
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\Newtonsoft.Json.xml
+E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\RestSharp.xml
+E:\WindowService\AssetInfinity.HardwareInformationService\obj\Debug\AssetInfinity.HardwareInformationService.csprojAssemblyReference.cache
+E:\WindowService\AssetInfinity.HardwareInformationService\obj\Debug\AssetInfinity.HardwareInformationService.csproj.CopyComplete

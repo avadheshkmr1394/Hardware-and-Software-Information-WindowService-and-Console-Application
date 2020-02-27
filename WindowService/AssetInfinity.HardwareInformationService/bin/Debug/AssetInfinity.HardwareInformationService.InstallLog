@@ -1,0 +1,13 @@
+﻿Installing assembly 'E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.InstallLog
+   assemblypath = E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.InstallLog
+   assemblypath = E:\WindowService\AssetInfinity.HardwareInformationService\bin\Debug\AssetInfinity.HardwareInformationService.exe
+Restoring event log to previous state for source Service1.
